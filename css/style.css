@@ -568,6 +568,10 @@ img {
   margin-left: 93px;
 }
 
+.footer-form {
+  display: flex;
+}
+
 .footer-form-title {
   margin-bottom: 20px;
 
@@ -593,13 +597,10 @@ img {
   border-radius: 4px;
 }
 
-.button-wrapper {
+.footer-form-button {
   display: flex;
   justify-content: center;
   align-items: center;
-}
-
-.footer-form-button {
   width: 200px;
   height: 50px;
   margin: 0;
